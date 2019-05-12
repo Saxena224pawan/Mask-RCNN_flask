@@ -22,7 +22,7 @@ This is maskRCNN implementation in flask.
 ![Segmentation Sample](cat_screenshot.png)
 
 ## Credits:
-Some of the code has been taken from [Matterport's MaskRCNN](https://github.com/matterport/Mask_RCNN) and [mtobeiyf's](https://github.com/mtobeiyf/keras-flask-deploy-webapp) repo
+Some of the code has been taken from [Matterport's MaskRCNN](https://github.com/matterport/Mask_RCNN) repo.
 
 
     
